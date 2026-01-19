@@ -1,7 +1,8 @@
 # 💫 About Me:
 🎓 BCA Student | 💻 Learning C++, PYTHON AND HTML  & Computer Fundamentals<br>📚 Passionate about problem-solving and core CS concepts<br>🚀 Building projects step by step
 <div align="center">
-  <img src="https://raw.githubusercontent.com/anujkush2431393/anujkush2431393/output/snake.svg" alt="Snake animation" />
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/anujkush2431393/anujkush2431393/output/pacman-contribution-graph.svg">
+</picture>
 </div>
 
 
