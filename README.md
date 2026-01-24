@@ -32,13 +32,19 @@
 
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=anujkush2431393&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+<!-- GitHub Stats -->
+<img src="https://github-readme-stats.vercel.app/api?username=anujkush2431393&theme=dark&hide_border=false&include_all_commits=false&count_private=false" />
+
+<!-- Right aligned GIF -->
 <div align="right">
   <img src="https://cdn.dribbble.com/userupload/22553452/file/original-bef4c9d5b9e203e1595b4caee2cb1008.gif" width="400" />
 </div>
 
-![](https://nirzak-streak-stats.vercel.app/?user=anujkush2431393&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=anujkush2431393&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<!-- Streak Stats -->
+<img src="https://nirzak-streak-stats.vercel.app/?user=anujkush2431393&theme=dark&hide_border=false" />
+
+<!-- Top Languages -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anujkush2431393&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
