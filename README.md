@@ -42,7 +42,9 @@
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anujkush2431393&theme=dark&hide_border=true&layout=compact" />
     </td>
     <td>
+      <div align="right"
       <img src="https://cdn.dribbble.com/userupload/22553452/file/original-bef4c9d5b9e203e1595b4caee2cb1008.gif" width="300" />
+      </div> 
     </td>
   </tr>
 
