@@ -35,9 +35,9 @@
 <table>
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=anujkush2431393&theme=dark&hide_border=true" />
+      <img src="https://github-readme-stats.vercel.app/api?username=anujkush2431393&theme=dark&hide_border=false" />
       <br/><br/>
-      <img src="https://nirzak-streak-stats.vercel.app/?user=anujkush2431393&theme=dark&hide_border=true" />
+      <img src="https://nirzak-streak-stats.vercel.app/?user=anujkush2431393&theme=dark&hide_border=false" />
       <br/><br/>
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anujkush2431393&theme=dark&hide_border=true&layout=compact" />
     </td>
