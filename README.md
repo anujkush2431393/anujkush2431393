@@ -1,6 +1,10 @@
 # 💫 About Me:
 🎓 BCA Student | 💻 Learning C++, PYTHON AND HTML  & Computer Fundamentals<br>📚 Passionate about problem-solving and core CS concepts<br>🚀 Building projects step by step
 
+<div align="center">
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+</div>
+
 
 
 ## 🌐 Socials:
