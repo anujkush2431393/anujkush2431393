@@ -2,7 +2,7 @@
 <br>
  <!-- Typing Text -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F74B79&width=435&lines=%3E+I+am+Full+Stack+Developer.+%3C">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F74B79&width=435&lines=%3E+I+am+Full+Stack+Developer.+>">
 </p>
 
 
