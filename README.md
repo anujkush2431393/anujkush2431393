@@ -1,5 +1,5 @@
-# 💫 About Me:
-Hi 👋🏼 I am Anuj Kushwaha
+# Hi 👋🏼 I am Anuj Kushwaha:
+
 
 
 ## 🌐 Socials:
