@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://media.licdn.com/dms/image/v2/D5616AQGRXu6ymsIwag/profile-displaybackgroundimage-shrink_200_800/profile-displaybackgroundimage-shrink_200_800/0/1695686316609?e=2147483647&v=beta&t=--W-3CtEaT980_iOpkNN4PlD5dXN3y8-1NEatTc5hL0"/>
+</p>
 # Hi 👋🏼 I am Anuj Kushwaha:
 <br>
  <!-- Typing Text -->
