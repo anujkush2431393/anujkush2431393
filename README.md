@@ -12,9 +12,9 @@
 
 <!-- Snake Game Repo View -->
 
-<p align="center">
-<img src="assets/space-shooter.gif" />
-</p>
+<div align="center">
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+</div>
 
 
 
