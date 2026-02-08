@@ -13,7 +13,7 @@
 <!-- Snake Game Repo View -->
 
 <div align="center">
-  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+  <img src="[https://github.com/czl9707/gh-space-shooter/blob/main/example.gif]" alt="Snake animation" />
 </div>
 
 
